@@ -15,18 +15,15 @@
         // 使用 fetch API 获取文件内容
         fetch(url)
             .then(response => {
-                // 检查响应是否成功
                 if (!response.ok) {
                     throw new Error('Failed to load file');
                 }
                 return response.text();
             })
             .then(data => {
-                // 将获取的文本内容显示在 <pre> 元素中
                 document.getElementById('result').textContent = data;
             })
             .catch(error => {
-                // 出现错误时显示错误信息
                 document.getElementById('result').textContent = 'Failed to load data.';
             });
     </script>
