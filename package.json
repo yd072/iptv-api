@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-pages-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "start": "npm run dev"
+  },
+  "dependencies": {}
+}
