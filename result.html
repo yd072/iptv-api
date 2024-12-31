@@ -1,43 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IP Lists</title>
-</head>
-<body>
-    <pre id="ip-list">Loading IP lists...</pre>
+    <meta 夏尔塞特="UTF-8">
+    <meta 名称="viewport" 内容="width=device-width, initial-scale=1.0">
+    <标题>IP 列表</标题>
+<!DOCTYPE html><style>
+<html lang="en">{
+<头>font-family: Arial, sans-serif;
+ <meta charset="UTF-8"> px;
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>IPTV Result</title>}
+        h1 {
+ 身体 { { color: #333;
+            font-family: Arial, sans-serif;}
+        #result {
+            background-color: #f4f4f9;背景颜色: #f4f4f9; background-color: #fff;
+        }} border: 1px solid #ccc;
+ h1 { { padding: 20px;
+            color: #333;颜色: #333; white-space: pre-wrap; /* 保持文本格式 */
+        }} word-wrap: break-word; /* 长行折行 */
+ #结果 { { max-width: 800px;
+            background-color: #fff;背景颜色:#fff; margin-top: 20px;
+            border: 1px solid #ccc;边框:1px固体#ccc; font-size: 14px; /* 设置文本大小 */
+            padding: 20px;line-height: 1.6; /* 设置行间距 */
+            white-space: pre-wrap; /* 保持文本格式 */空白: pre-wrap; /* 保持文本格式 */ }
+            word-wrap: break-word; /* 长行折行 */word-wrap: break-word; /* 长行折行 */ </style>
+</ 最大宽度：800px; >
+<  边缘顶部：20px; >
+             font-size: 14px; /* 设置文本大小 */ <h1>IPTV Result</h1>
+              line-height: 1.6; /* 设置行间距 */  <div id=“结果”>装货...</div>
 
-    <script>
-        // 定义多个 GitHub txt 文件的 URL
-        const ipFileUrls = [
-            'https://raw.githubusercontent.com/yd072/iptv-api/refs/heads/master/output/result.txt',
-            
-            // 添加更多 URL
-        ];
+    </style></style> <script>
+</head>/head>// 远程文本文件的 URL
+<<身体>>const url = 'https://raw.githubusercontent.com/yd072/iptv-api/refs/heads/master/output/result.txt';
 
-        // 获取内容并显示
-        async function fetchAndDisplayIPs(urls) {
-            const container = document.getElementById('ip-list');
-            container.textContent = ''; // 清空默认消息
-
-            for (const url of urls) {
-                try {
-                    const response = await fetch(url);
-                    if (!response.ok) {
-                        throw new Error(`Failed to fetch from ${url}`);
-                    }
-                    const text = await response.text();
-                    container.textContent += text + '\n\n';  // 每个文件内容之间加空行
-                } catch (error) {
-                    container.textContent += `Error: Unable to fetch content from ${url}\n\n`;
-                    console.error(error);
-                }
-            }
-        }
-
-        // 调用函数读取内容
-        fetchAndDisplayIPs(ipFileUrls);
-    </script>
-</body>
-</html>
+ <div id="result">> 加载...<</div> "result"> 加载...</div> // 使用 fetch API 获取内容
+        fetch(url)
+  <脚本>  
+         // 远程文本文件的 URL 
+ const url = 'https://raw.githubusercontent.com/yd072/iptv-api/refs/heads/master/output/result.txt'; 
+                    throw new Error('Network response was not ok');
+         // 使用 fetch API 获取内容 
+ fetch (url) 
+ .then (响应 => { then (响应 => { })
+             . 
+ if (!response.ok) { <div> 中
+ 文件。 throw new Error (“网络响应不好”); getElementById('result').textContent = data;
+                 } 
+             . return response.text (); catch(error => {
+             }) 
+ 控制台。 then (数据 => { error('Error fetching the file:', error);
+  文件。 // 将获取到的文本内容放入页面的  <div> 中 getElementById('result').textContent = 'Failed to load data.';
+ document.getElementById ("result').textContent = data; getElementById ("result').textContent = data; });
+             }) </脚本>
+</身体
+</                 // 处理错误情况 >
