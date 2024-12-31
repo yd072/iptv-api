@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP Lists</title>
+</head>
+<body>
+    <pre id="ip-list">Loading IP lists...</pre>
+
+    <script>
+        // 定义多个 GitHub txt 文件的 URL
+        const ipFileUrls = [
+            'https://raw.githubusercontent.com/yd072/cfipcaiji/refs/heads/main/ip.txt',
+            'https://raw.githubusercontent.com/example/example-repo/main/another-ip.txt',
+            // 添加更多 URL
+        ];
+
+        // 获取内容并显示
+        async function fetchAndDisplayIPs(urls) {
+            const container = document.getElementById('ip-list');
+            container.textContent = ''; // 清空默认消息
+
+            for (const url of urls) {
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) {
+                        throw new Error(`Failed to fetch from ${url}`);
+                    }
+                    const text = await response.text();
+                    container.textContent += text + '\n\n';  // 每个文件内容之间加空行
+                } catch (error) {
+                    container.textContent += `Error: Unable to fetch content from ${url}\n\n`;
+                    console.error(error);
+                }
+            }
+        }
+
+        // 调用函数读取内容
+        fetchAndDisplayIPs(ipFileUrls);
+    </script>
+</body>
+</html>
