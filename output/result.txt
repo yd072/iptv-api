@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-01 17:39:46,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
+2025-01-01 17:48:38,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
 📺央视频道,#genre#
 CCTV-1,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-2,http://221.199.193.3:9901/tsfile/live/0002_1.m3u8$订阅源
@@ -12,13 +12,10 @@ CCTV-7,http://221.199.193.3:9901/tsfile/live/0007_1.m3u8$订阅源
 CCTV-8,http://221.199.193.3:9901/tsfile/live/0008_1.m3u8$订阅源
 CCTV-9,http://221.199.193.3:9901/tsfile/live/0009_1.m3u8$订阅源
 CCTV-10,http://221.199.193.3:9901/tsfile/live/0010_1.m3u8$订阅源
-CCTV-11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8$订阅源
 CCTV-12,http://221.199.193.3:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-13,http://221.199.193.3:9901/tsfile/live/0013_1.m3u8$订阅源
 CCTV-14,http://221.199.193.3:9901/tsfile/live/0014_1.m3u8$订阅源
 CCTV-15,http://221.199.193.3:9901/tsfile/live/0015_1.m3u8$订阅源
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8$订阅源
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://221.199.193.3:9901/tsfile/live/0125_1.m3u8$订阅源
@@ -49,8 +46,6 @@ CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&a
 深圳卫视,http://221.199.193.3:9901/tsfile/live/0126_1.m3u8$订阅源
 天津卫视,http://221.199.193.3:9901/tsfile/live/0135_1.m3u8$订阅源
 西藏卫视,http://221.199.193.3:9901/tsfile/live/0111_1.m3u8$订阅源
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8$订阅源
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 云南卫视,http://221.199.193.3:9901/tsfile/live/0119_1.m3u8$订阅源
 
 🌊港·澳·台,#genre#
