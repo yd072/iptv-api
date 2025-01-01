@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-01 17:26:31,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
+2025-01-01 17:39:46,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
 📺央视频道,#genre#
 CCTV-1,http://221.199.193.3:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-2,http://221.199.193.3:9901/tsfile/live/0002_1.m3u8$订阅源
@@ -56,6 +56,10 @@ CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&a
 🌊港·澳·台,#genre#
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed$订阅源
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://221.199.193.3:9901/tsfile/live/0015_1.m3u8$订阅源
