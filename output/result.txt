@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-25 09:19:54,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
+2025-01-25 18:38:49,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
@@ -7,16 +7,20 @@ CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
 CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
+CCTV-5+,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-1920x1080
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源-1920x1080
+CCTV-9,http://221.226.4.10:9901/tsfile/live/0009_1.m3u8$订阅源-1920x1080
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
+CCTV-10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
+CCTV-12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
 CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
+CCTV-14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8$订阅源-1920x1080
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
