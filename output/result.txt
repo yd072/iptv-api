@@ -1,72 +1,52 @@
 🕘️更新时间,#genre#
-2025-01-26 06:08:52,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$订阅源-1920x1080
+2025-01-26 17:57:16,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
 
 📺央视频道,#genre#
-CCTV-1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$订阅源-1920x1080
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
-CCTV-1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv$订阅源-1920x1080
-CCTV-2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
-CCTV-2,http://183.66.15.146:60901/tsfile/live/0002_1.m3u8?key=txiptv$订阅源-1920x1080
-CCTV-3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8$订阅源-1920x1080
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
-CCTV-3,http://183.66.15.146:60901/tsfile/live/0003_1.m3u8?key=txiptv$订阅源-1920x1080
-CCTV-4,http://202.168.187.208:9089/tsfile/live/1000_1.m3u8$订阅源-1920x1080
+CCTV-3,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8$订阅源-1920x1080
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
-CCTV-4,http://183.66.15.146:60901/tsfile/live/0004_1.m3u8?key=txiptv$订阅源-1920x1080
-CCTV-5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8$订阅源-1920x1080
 CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
-CCTV-5,http://183.66.15.146:60901/tsfile/live/0005_1.m3u8?key=txiptv$订阅源-1920x1080
+CCTV-5,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8$订阅源-1920x1080
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-1920x1080
-CCTV-6,http://183.66.15.146:60901/tsfile/live/0006_1.m3u8?key=txiptv$订阅源-1920x1080
+CCTV-6,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8$订阅源-1920x1080
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
-CCTV-7,http://183.66.15.146:60901/tsfile/live/0007_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源-1920x1080
-CCTV-8,http://183.66.15.146:60901/tsfile/live/0008_1.m3u8?key=txiptv$订阅源-1920x1080
+CCTV-8,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8$订阅源-1920x1080
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
-CCTV-9,http://183.66.15.146:60901/tsfile/live/0009_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
-CCTV-10,http://183.66.15.146:60901/tsfile/live/0010_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
-CCTV-11,http://183.66.15.146:60901/tsfile/live/0011_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
-CCTV-12,http://183.66.15.146:60901/tsfile/live/0012_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
-CCTV-13,http://183.66.15.146:60901/tsfile/live/0013_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
-CCTV-15,http://183.66.15.146:60901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源-1920x1080
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
 
 📡卫视频道,#genre#
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$订阅源-1920x1080
+湖南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8$订阅源-1920x1080
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws$订阅源-1920x1080
-东方卫视,http://183.66.15.146:60901/tsfile/live/0107_1.m3u8$订阅源-1920x1080
-甘肃卫视,http://183.66.15.146:60901/tsfile/live/0141_1.m3u8$订阅源-1920x1080
-贵州卫视,http://183.66.15.146:60901/tsfile/live/0120_1.m3u8$订阅源-1920x1080
-河北卫视,http://183.66.15.146:60901/tsfile/live/0117_1.m3u8$订阅源-1920x1080
+河南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8$订阅源-1920x1080
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws$订阅源-1920x1080
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$订阅源-1920x1080
-内蒙古卫视,http://183.66.15.146:60901/tsfile/live/0109_1.m3u8$订阅源-1920x1080
-宁夏卫视,http://183.66.15.146:60901/tsfile/live/0112_1.m3u8$订阅源-1920x1080
-山东卫视,http://183.66.15.146:60901/tsfile/live/0131_1.m3u8$订阅源-1920x1080
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源-1920x1080
-西藏卫视,http://183.66.15.146:60901/tsfile/live/0111_1.m3u8$订阅源-1920x1080
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$订阅源-1920x1080
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
 纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7$订阅源-1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
 东森电影,https://iptv.vip-tptv.xyz/tv.php?id=4$订阅源-1920x1080
 
 🎵音乐频道,#genre#
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
-CCTV-15,http://183.66.15.146:60901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源-1920x1080
 
 🏛经典剧场,#genre#
